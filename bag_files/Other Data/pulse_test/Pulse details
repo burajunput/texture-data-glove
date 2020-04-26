@@ -1,0 +1,20 @@
+Pulse 1:
+140Hz->230Hz pulse
+
+300ms delay
+
+Pulse 2:
+140Hz->170Hz->200Hz->230Hz->200Hz->170Hz
+
+75ms delay
+
+
+Pulse 3:
+230Hz->170Hz
+
+300ms delay
+
+Pulse 4:
+230Hz->200Hz
+
+300ms delay
